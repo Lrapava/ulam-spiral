@@ -1,4 +1,4 @@
-# ulam.py
+# Usage
 
 ```
 A simple Python script for generating Ulam Spiral
